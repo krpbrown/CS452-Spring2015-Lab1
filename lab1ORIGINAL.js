@@ -1,4 +1,4 @@
-
+// Kristian Brown 1/24/15 Lab 1
 var gl;
 var points;
 
