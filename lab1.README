@@ -1,4 +1,3 @@
-name, date, description
-Kristian Brown
-1/24/15
-Created 3 shapes, a square, triangle, and trapezoid, which are cycled through on a mouse click
+Kristian Brown, 1/28/15, Lab 1
+
+Created 3 shapes, a square, triangle, and trapezoid, which are cycled through on a mouse click. A triangle is initially drawn on the screen. I created a function which is called when the mouse is clicked, and it has a counter variable passed to it which increments each time. On the first click, the square is displayed, and on the next click a trapezoid is displayed. After this, it returns to the triangle because each of the if statements in my function are checking the counter value mod 3.
